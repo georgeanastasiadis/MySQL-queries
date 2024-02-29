@@ -7,6 +7,7 @@ WHERE facid IN (1,5);
 
 SELECT joindate
 FROM members;
+
 /*Question: Write a query that will print the firstname, surname and joindate of the members table who 
 who joined after the start of September 2012*/
 SELECT firstname, surname, joindate
